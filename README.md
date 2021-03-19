@@ -1,6 +1,6 @@
 # Machine_Learning
 1. Supervised learning: 
-   * Regresi
+   * [Linear Regresi](https://github.com/DinWaikabu/Machine_Learning/blob/master/linear_regresi.py)
    * SVM
    * Naive Bates
    * KNN
