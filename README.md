@@ -1,7 +1,7 @@
 # Machine_Learning
 1. Supervised learning: 
    * [Linear Regresi](https://github.com/DinWaikabu/Machine_Learning/blob/master/linear_regresi.py)
-   * [Logistic Regression]()
+   * [Logistic Regression](https://github.com/DinWaikabu/Machine_Learning/blob/master/RegresiLogistik.ipynb)
    * Naive Bates
    * KNN
    * [Compring Classifiers Models](https://github.com/DinWaikabu/Machine_Learning/blob/master/Comparing_Classifier_Models.ipynb)
